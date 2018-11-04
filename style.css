@@ -1,0 +1,16 @@
+#header {
+    margin-top: 20px;
+  }
+  
+  a[href="https://www.twitch.tv/freecodecamp"] {
+    text-decoration: none;
+  }
+  
+  div {
+    margin-top: 15px;
+  }
+  
+  img.thumbnail {
+    max-height: 100px;
+    max-width: 100px;
+  }
